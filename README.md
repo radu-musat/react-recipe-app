@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# React CRUD Recipe App
+- built with [React](https://reactjs.org/) and [Bulma](https://bulma.io/)
+- live preview [here](https://spectacular-griffin-5e1453.netlify.app/)
+- uses local storage to persist data
+- in order to reset the app to base state use [localStorage.clear()](https://stackoverflow.com/questions/7667958/clearing-localstorage-in-javascript)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
