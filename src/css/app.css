@@ -1,0 +1,8 @@
+/* @import-normalize; */
+@import url('font.css');
+@import url('reciple-list.css');
+@import url('recipe-edit.css');
+
+*, *::before, *::after {
+    font-family: Gotham Rounded, sans-serif;
+}
